@@ -34,10 +34,10 @@
                     Grid.Row="0"
                     Margin="12,17,0,28">
             <TextBlock x:Name="ApplicationTitle"
-                       Text="MVVM rockz!"
+                       Text="Fran Rodriguez"
                        Style="{StaticResource PhoneTextNormalStyle}" />
             <TextBlock x:Name="PageTitle"
-                       Text="details"
+                       Text="Details"
                        Margin="9,-7,0,0"
                        Style="{StaticResource PhoneTextTitle1Style}" />
         </StackPanel>
@@ -58,7 +58,11 @@
             <TextBlock Text="{Binding Capital}" />
             <TextBlock Text="Short Description:"
                        FontSize="30" />
-            <TextBlock Text="{Binding Description}" />
+            <TextBlock Text="{Binding Description}" 
+                       LineHeight="10" 
+                       TextWrapping="Wrap" 
+                       LineStackingStrategy="MaxHeight"
+                       ScrollViewer.VerticalScrollBarVisibility="Auto"/>
         </StackPanel>
     </Grid>
 

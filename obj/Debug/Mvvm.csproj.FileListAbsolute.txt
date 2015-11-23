@@ -105,3 +105,38 @@ C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.g.resour
 C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.dll
 C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.pdb
 C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\XapCacheFile.xml
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\ApplicationIcon.jpg
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\Background.jpg
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\Mvvm.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\Mvvm.pdb
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\AppManifest.xaml
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\Mvvm.xap
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\System.Windows.Interactivity.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\System.Windows.Interactivity.xml
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Fran\Projects\MVVMWindowsPhone7\obj\Debug\App.g.i.cs
+C:\Fran\Projects\MVVMWindowsPhone7\obj\Debug\Views\CountryDetails.g.i.cs
+C:\Fran\Projects\MVVMWindowsPhone7\obj\Debug\Views\MainPage.g.i.cs
+C:\Fran\Projects\MVVMWindowsPhone7\obj\Debug\Mvvm.g.resources
+C:\Fran\Projects\MVVMWindowsPhone7\obj\Debug\Mvvm.dll
+C:\Fran\Projects\MVVMWindowsPhone7\obj\Debug\Mvvm.pdb
+C:\Fran\Projects\MVVMWindowsPhone7\obj\Debug\XapCacheFile.xml

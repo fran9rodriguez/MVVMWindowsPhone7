@@ -4,14 +4,14 @@
     <Name>Germany</Name>
     <Flag>../Images/Germany.png</Flag>
     <ID>1</ID>
-    <Description>Germany Description</Description>
+    <Description>Germany is a country in west-central Europe, that stretches from the Alps, across the North European Plain to the North Sea and the Baltic Sea. Germany has the second largest population in Europe (after the European part of Russia) and is seventh largest in area. The territory of Germany covers 357,021 km2 (137,847 sq mi), consisting of 349,223 km2 (134,836 sq mi) of land and 7,798 km2 (3,011 sq mi) of waters.</Description>
     <Capital>Berlin</Capital>
   </Country>
   <Country>
     <Name>Greece</Name>
     <Flag>../Images/Greece.png</Flag>
     <ID>2</ID>
-    <Description>Greece Description</Description>
+    <Description>Greece (Listeni/ɡriːs/ greess; Greek: Ελλάδα, Elláda [eˈlaða] ( listen)), officially the Hellenic Republic (Greek: Ελληνική Δημοκρατία, Ellīnikī́ Dīmokratía [eliniˈci ðimokraˈti.a]) and known since ancient times as Hellas (/ˈhɛləs/; Greek: Ελλάς, Ellás), is a country located in southeastern Europe. According to the 2011 census, Greece's population is around 10.8 million. Athens is the nation's capital and largest city, followed by Thessaloniki, which is commonly referred to as the co-capital.</Description>
     <Capital>Athens</Capital>
   </Country>
   <Country>
@@ -25,7 +25,7 @@
     <Name>Spain</Name>
     <Flag>../Images/Spain.png</Flag>
     <ID>4</ID>
-    <Description>Spain Description</Description>
+    <Description>Spain (Listeni/ˈspeɪn/; Spanish: España [esˈpaɲa] ( listen)), officially the Kingdom of Spain (Spanish: Reino de España),[a][b] is a sovereign state largely located on the Iberian Peninsula in southwestern Europe, with a small section of its territory located on the African continent. Its mainland is bordered to the south and east by the Mediterranean Sea except for a small land boundary with Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean. Along with France and Morocco, it is one of only three countries to have both Atlantic and Mediterranean coastlines. Extending to 1,214 km (754 mi), the Portugal–Spain border is the longest uninterrupted border within the European Union.</Description>
     <Capital>Madrid</Capital>
   </Country>
   <Country>
@@ -53,7 +53,7 @@
     <Name>Netherlands</Name>
     <Flag>../Images/Netherlands.png</Flag>
     <ID>8</ID>
-    <Description>Netherlands Description</Description>
+    <Description>The Netherlands (Listeni/ˈnɛðərləndz/; Dutch: Nederland [ˈneːdərˌlɑnt] ( listen)) is the main "constituent country" (Dutch: land) of the Kingdom of the Netherlands. It is a small, densely populated country located in Western Europe with three island territories in the Caribbean.[nb 1] The European part of the Netherlands borders Germany to the east, Belgium to the south, and the North Sea to the northwest, sharing maritime borders with Belgium, the United Kingdom and Germany.[9] The largest and most important cities in the Netherlands are Amsterdam, The Hague and Rotterdam. Amsterdam is the country's capital,[10] while The Hague holds the Dutch seat of government and parliament.[11] The port of Rotterdam is the largest port in Europe – as large as the next three largest combined - and was the world's largest port between 1962 and 2004.[12]</Description>
     <Capital>Amsterdam</Capital>
   </Country>
   <Country>

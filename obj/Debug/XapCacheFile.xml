@@ -1,13 +1,13 @@
-﻿<xapCache source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Mvvm.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="23/11/2015 23:31:40">
-  <file source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="23/11/2015 23:29:47" />
-  <file source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\Background.jpg" archivePath="Background.jpg" lastWriteTime="06/06/2014 02:38:16" />
-  <file source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\ApplicationIcon.jpg" archivePath="ApplicationIcon.jpg" lastWriteTime="06/06/2014 02:38:16" />
-  <file source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.dll" archivePath="Mvvm.dll" lastWriteTime="23/11/2015 23:31:39" />
+﻿<xapCache source="C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\Mvvm.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="23/11/2015 23:59:24">
+  <file source="C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="23/11/2015 23:29:47" />
+  <file source="C:\Fran\Projects\MVVMWindowsPhone7\Background.jpg" archivePath="Background.jpg" lastWriteTime="06/06/2014 02:38:16" />
+  <file source="C:\Fran\Projects\MVVMWindowsPhone7\ApplicationIcon.jpg" archivePath="ApplicationIcon.jpg" lastWriteTime="06/06/2014 02:38:16" />
+  <file source="C:\Fran\Projects\MVVMWindowsPhone7\obj\Debug\Mvvm.dll" archivePath="Mvvm.dll" lastWriteTime="23/11/2015 23:59:24" />
   <file source="c:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="17/08/2011 02:48:22" />
   <file source="c:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="17/08/2011 02:48:22" />
-  <file source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\Models\CountriesXML.xml" archivePath="Models\CountriesXML.xml" lastWriteTime="06/06/2014 02:38:16" />
-  <file source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="06/06/2014 02:38:16" />
-  <file source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="23/11/2015 23:31:40" />
-  <file source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ApplicationIcon.jpg" archivePath="ApplicationIcon.jpg" lastWriteTime="06/06/2014 02:38:16" />
-  <file source="C:\Fran\Projects\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Background.jpg" archivePath="Background.jpg" lastWriteTime="06/06/2014 02:38:16" />
+  <file source="C:\Fran\Projects\MVVMWindowsPhone7\Models\CountriesXML.xml" archivePath="Models\CountriesXML.xml" lastWriteTime="23/11/2015 23:55:49" />
+  <file source="C:\Fran\Projects\MVVMWindowsPhone7\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="06/06/2014 02:38:16" />
+  <file source="C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="23/11/2015 23:31:40" />
+  <file source="C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\ApplicationIcon.jpg" archivePath="ApplicationIcon.jpg" lastWriteTime="06/06/2014 02:38:16" />
+  <file source="C:\Fran\Projects\MVVMWindowsPhone7\Bin\Debug\Background.jpg" archivePath="Background.jpg" lastWriteTime="06/06/2014 02:38:16" />
 </xapCache>
